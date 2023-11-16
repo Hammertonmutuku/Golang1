@@ -1,0 +1,30 @@
+go 1.21.3
+
+use (
+	./01Hello
+	./02Variables
+	./03UserInput
+	./04Converstion
+	./05MyTime
+	./06MyPointers
+	./07MyArray
+	./08MySlices
+	./09MyMaps
+	./10MyStructs
+	./11IfElse
+	./12SwitchCase
+	./13Lopps
+	./14Functions
+	./15Methods
+	./16Defers
+	./17Files
+	./18WebRequest
+	./19Urls
+	./20GetRequest
+	./21BitmoreJson
+	./22MyModule
+	./23BuildApi
+	./25goroutines
+	./26notExample
+	./MongoApi
+)
